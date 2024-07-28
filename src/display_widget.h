@@ -9,6 +9,8 @@ class DisplayWidget : public QWidget
 public:
     explicit DisplayWidget(QWidget* parent = nullptr);
     ~DisplayWidget();
+	
+	int num_ = 10;
 };
 
 #endif
