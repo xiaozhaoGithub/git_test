@@ -2,6 +2,7 @@
 #define DISPLAY_WIDGET_H_
 
 #include <QWidget>
+#include <QLabel>
 
 class DisplayWidget : public QWidget
 {
