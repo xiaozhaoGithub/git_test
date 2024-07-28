@@ -23,4 +23,9 @@ int add(int a, int b)
 	return a + b;
 }
 
+int reduce(int a, int b)
+{
+	return a - b;
+}
+
 #include "moc_display_widget.cpp"
