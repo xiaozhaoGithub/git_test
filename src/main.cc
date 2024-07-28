@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
         return -1;
 
     auto font = a->font();
-    font.setPixelSize(14);
+    font.setPixelSize(15);
     a->setFont(font);
 
     DisplayWidget w;
