@@ -7,7 +7,7 @@ DisplayWidget::DisplayWidget(QWidget* parent)
     : QWidget(parent)
 {
     setObjectName("widget_like_container");
-    setFixedHeight(300);
+    setFixedHeight(400);
 
     auto label = new QLabel(tr("abc"));
 
