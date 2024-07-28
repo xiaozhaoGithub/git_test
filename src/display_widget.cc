@@ -9,7 +9,7 @@ DisplayWidget::DisplayWidget(QWidget* parent)
     setObjectName("widget_like_container");
     setFixedHeight(400);
 
-    auto label = new QLabel(tr("abc"));
+    auto label = new QLabel(tr("abceee"));
 
     auto main_layout = new QHBoxLayout(this);
     main_layout->setSpacing(24);
