@@ -28,6 +28,7 @@ int reduce(int a, int b)
 	int q = 77;
 	int qq = 777;
 	int c1 = 1;
+	int c2 = 2;
 	return a - b;
 }
 
