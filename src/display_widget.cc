@@ -18,4 +18,9 @@ DisplayWidget::DisplayWidget(QWidget* parent)
 
 DisplayWidget::~DisplayWidget() {}
 
+int add(int a, int b)
+{
+	return a + b;
+}
+
 #include "moc_display_widget.cpp"
