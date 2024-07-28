@@ -26,6 +26,7 @@ int add(int a, int b)
 int reduce(int a, int b)
 {
 	int q = 77;
+	int qq = 777;
 	return a - b;
 }
 
