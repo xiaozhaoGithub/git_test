@@ -41,6 +41,11 @@ int ModifyFeature3ByConflict(int a, int b)
 	return a + b;
 }
 
+int getValue()
+{
+	return 5
+}
+
 int feature_3(int a, int b)
 {
 	return a - b;
