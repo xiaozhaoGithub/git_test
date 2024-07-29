@@ -14,6 +14,9 @@ DisplayWidget::DisplayWidget(QWidget* parent)
     auto main_layout = new QHBoxLayout(this);
     main_layout->setSpacing(24);
     main_layout->addWidget(label);
+	
+	
+	feature_3(2, 1);
 }
 
 DisplayWidget::~DisplayWidget() {}
@@ -29,6 +32,11 @@ int reduce(int a, int b)
 	int qq = 777;
 	int c1 = 1;
 	int c2 = 2;
+	return a - b;
+}
+
+int feature_3(int a, int b)
+{
 	return a - b;
 }
 
