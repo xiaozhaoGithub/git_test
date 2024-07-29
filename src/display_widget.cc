@@ -32,4 +32,9 @@ int reduce(int a, int b)
 	return a - b;
 }
 
+int feature3(int a, int b)
+{
+	return a + b;
+}
+
 #include "moc_display_widget.cpp"
