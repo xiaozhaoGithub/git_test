@@ -35,6 +35,12 @@ int reduce(int a, int b)
 	return a - b;
 }
 
+
+int ModifyFeature3ByConflict(int a, int b)
+{
+	return a + b;
+}
+
 int feature_3(int a, int b)
 {
 	return a - b;
