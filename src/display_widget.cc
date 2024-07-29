@@ -41,6 +41,12 @@ int ModifyFeature3ByConflict(int a, int b)
 	return a + b;
 }
 
+int num_ = 0;
+void setValue(int num)
+{
+	num_ = num;
+}
+
 int getValue()
 {
 	return 5
