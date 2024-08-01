@@ -50,7 +50,7 @@ int getValue()
 
 int getIntValue()
 {
-	// chongtu
+	// 123456789
 	return 5;
 }
 
