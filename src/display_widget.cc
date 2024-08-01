@@ -50,6 +50,7 @@ int getValue()
 
 int getIntValue()
 {
+	// chongtu
 	return 5;
 }
 
