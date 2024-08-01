@@ -49,7 +49,7 @@ void setValue(int num)
 
 int getValue()
 {
-	return 5
+	return 5;
 }
 
 int feature_3(int a, int b)
