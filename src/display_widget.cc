@@ -35,6 +35,8 @@ int reduce(int a, int b)
 // 功能3, xxxx
 int feature3(int a, int b)
 {
+	int dd = 10;
+	int ee = 10;
 	// 注释
 	return a + b;
 }
