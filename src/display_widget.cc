@@ -41,10 +41,16 @@ int feature3(int a, int b)
 	return a + b;
 }
 
+
 int getValue()
 {
-	return 5
+	return 5;
 }
 
+
+int getIntValue()
+{
+	return 5;
+}
 
 #include "moc_display_widget.cpp"
